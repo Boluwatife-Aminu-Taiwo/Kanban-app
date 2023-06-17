@@ -15,7 +15,7 @@ npm run start
 ### REACT-DRAGGABLE
 
 ```shell
-npm install rect-draggable
+npm install react-draggable
 ```
 
 ## Available Scripts
