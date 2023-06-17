@@ -6,17 +6,17 @@
 
 ### REACT
 
-    ```shell
-    npx create-react-app kaban-app
-    cd kaban-app
-    npm run start
-    ```
+```shell
+npx create-react-app kaban-app
+cd kaban-app
+npm run start
+```
 
 ### REACT-DRAGGABLE
 
-    ```shell
-    npm install rect-draggable
-    ```
+```shell
+npm install rect-draggable
+```
 
 ## Available Scripts
 
